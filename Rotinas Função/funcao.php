@@ -20,7 +20,7 @@
         return $s;
     }
 
-    $r = soma(3, 90);
+    $r = soma(3, 90, 76, 5);
     echo "A soma dos valores é $r";
 
     ?>
