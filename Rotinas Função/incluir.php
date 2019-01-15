@@ -10,16 +10,11 @@
     <?php
     include "funcoes.php";
     //require "funcoes.php";
+    ola();
 
+    irineu();
 
-    function soma(&$x){
-        $x += 2;
-        echo "A soma é $x<br>";
-    }
-
-    $a= 2;
-    soma($a);
-    echo " A soma é : $a";
+    echo "<br>Resto do texto";
 
     ?>
 </div>
