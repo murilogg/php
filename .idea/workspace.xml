@@ -9,14 +9,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.42606148">
+    <splitter split-orientation="horizontal" split-proportion="0.46266472">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/substr_count.php">
+            <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/matriz.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+                <state relative-caret-position="306">
+                  <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -25,11 +25,29 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/substr.php">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/array.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+                <state relative-caret-position="391">
+                  <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/teste.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/foreach.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -51,20 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_css/estilo.css" />
-        <option value="$PROJECT_DIR$/nota.php" />
-        <option value="$PROJECT_DIR$/nota.html" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/_modelohtml.html" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/_modelophp.php" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/switch.html" />
-        <option value="$PROJECT_DIR$/Estrutura If Else/_modelophp.php" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/semana.html" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/switch.php" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/semana.php" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/estado.php" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional Switch/estado.html" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional While/while.html" />
-        <option value="$PROJECT_DIR$/Estrutura Condicional While/while.php" />
         <option value="$PROJECT_DIR$/Estrutura Condicional Do while/Do_While.html" />
         <option value="$PROJECT_DIR$/Estrutura Condicional Do while/Do_while.php" />
         <option value="$PROJECT_DIR$/Estrutura Condicional Do while/tabuada.html" />
@@ -102,6 +106,20 @@
         <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/strpos.php" />
         <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/substr_count.php" />
         <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/substr.php" />
+        <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/str_pad.php" />
+        <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/str_repeat.php" />
+        <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/str_replace.php" />
+        <option value="$PROJECT_DIR$/Rotinas 25 Funçoes/_css/estilo.css" />
+        <option value="$PROJECT_DIR$/VETORES E MATRIZES" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/_modelophp.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/range.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/foreach.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/array1.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/chaves associativas.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/matriz.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/array.php" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/_modelohtml.html" />
+        <option value="$PROJECT_DIR$/Vetores e Matrizes/teste.php" />
       </list>
     </option>
   </component>
@@ -116,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,35 +144,36 @@
             <path>
               <item name="php" type="b2602c69:ProjectViewProjectNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="Rotinas 25 Funçoes" type="462c0819:PsiDirectoryNode" />
+              <item name="Vetores e Matrizes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547582299776" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547663510655" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\php" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\Vetores e Matrizes" />
+      <recent name="C:\xampp\htdocs\php" />
       <recent name="C:\xampp\htdocs\php\Rotinas 25 Funçoes" />
       <recent name="C:\xampp\htdocs\php\Rotinas Função" />
       <recent name="C:\xampp\htdocs\php\Estrutura Condicional For" />
-      <recent name="C:\xampp\htdocs\php\Estrutura Condicional Do while" />
-      <recent name="C:\xampp\htdocs\php\Estrutura Condicional While" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,18 +209,19 @@
       <workItem from="1547489790310" duration="558000" />
       <workItem from="1547495070541" duration="170000" />
       <workItem from="1547495283557" duration="2181000" />
-      <workItem from="1547565140446" duration="14078000" />
+      <workItem from="1547565140446" duration="14226000" />
+      <workItem from="1547651674101" duration="10171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54760000" />
+    <option name="totallyTimeSpent" value="65079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18532526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -233,7 +252,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -268,63 +287,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_modelohtml.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/nota.html" />
-    <entry file="file://$PROJECT_DIR$/_css/estilo.css" />
-    <entry file="file://$PROJECT_DIR$/nota.php" />
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/_css/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/switch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/semana.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/estado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional Switch/semana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional While/.idea/php.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estrutura Condicional While/while.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Estrutura Condicional Do while/.idea/php.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -520,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/str_split.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/ord.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -585,8 +540,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/substr.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/str_pad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <caret line="27" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/.idea/php.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/str_replace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/range.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/str_split.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rotinas 25 Funçoes/str_repeat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/array1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/chaves associativas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/matriz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/foreach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/array.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores e Matrizes/teste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>

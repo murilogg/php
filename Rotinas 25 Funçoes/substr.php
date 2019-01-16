@@ -8,7 +8,7 @@
 <body>
 <div>
     <h3><b>FUNÇÃO SUBSTR 22</b></h3>
-    <form method="get" action="">
+    <form method="get" action="str_pad.php">
 
         <?php
         $nome = "Estudando php";
@@ -18,7 +18,7 @@
 
         echo "<br><br>";
         ?>
-        <input type="submit" value="PROXIMA FUNÇÃO "/>
+        <input type="submit" value="PROXIMA FUNÇÃO STR_PAD"/>
     </form>
     <a href="substr_count.php"> <input type="submit" value="VOLTAR SUBSTR_COUNT"/></a>
 </div>
